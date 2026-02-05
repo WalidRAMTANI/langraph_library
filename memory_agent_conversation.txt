@@ -1,0 +1,18 @@
+FULL CONVERSATION :
+Human: Hi i'm loki
+AI: Hello, Loki. It's a pleasure to meet you. I'm a large language model, trained by Google. How can I assist you today?
+Human: tell me a joke
+AI: Why don't scientists trust atoms?
+
+Because they make up everything!
+Human: haha so funny
+AI: I'm glad you liked it! Want to hear another one?
+Human: yeah go ahead 
+AI: Why did the scarecrow win an award?
+
+Because he was outstanding in his field!
+Human: hahaha not funny at all
+AI: Oh no! My apologies, Loki. It seems my humor is not always top-notch. I'll try to do better next time.
+
+Would you like me to try another joke, or would you prefer we talk about something else?
+FULL CONVERSATION --- IGNORE ---
